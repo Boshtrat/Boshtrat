@@ -95,7 +95,7 @@ My name is Hugo and I'm a computer science student !
 ###
 
 <div align="left">
-  <b><font size="10">Project : N.O.V.A</font></b>
+  <b><font size="10">👾 Project : N.O.V.A</font></b>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="25" alt="unity logo"  />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="25" alt="csharp logo"  />
 </div>
@@ -105,7 +105,7 @@ First Person Shooter game, focused on the multiplayer aspect.
 ###
 
 <div align="left">
-  <b><font size="10">OCR Sudoku Solver</font></b>
+  <b><font size="10">🧩 OCR Sudoku Solver</font></b>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="c logo"  />
 </div>
 Solving sudokus with OCR with C : from grid detection to solving the sudoku.
@@ -113,7 +113,7 @@ Solving sudokus with OCR with C : from grid detection to solving the sudoku.
 ###
 
 <div align="left">
-  <b><font size="10">uuAutomatedMeteostation </font></b>
+  <b><font size="10">⛅ uuAutomatedMeteostation</font></b>
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" height="25" alt="raspberryPi logo"  />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" height="25" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white" height="25" alt="node-red logo"  />
@@ -126,7 +126,7 @@ Automated meteostation built with Raspberry Pi and Arduino Uno, equipped with a 
 ###
 
 <div align="left">
-  <b><font size="10">uuDiagramLibrary </font></b>
+  <b><font size="10">📚 uuDiagramLibrary</font></b>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript" height="25" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25" alt="express logo"  />
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" height="25" alt="insomnia logo"  />
@@ -138,7 +138,7 @@ Diagram Library project, offers the ability to conveniently store and access dia
 ###
 
 <div align="left">
-  <b><font size="10">Small C/Unix projects </font></b>
+  <b><font size="10">💾 Small C/Unix projects</font></b>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="c logo"  />
 </div>
 Reimplementation in 1 week each of : 
@@ -150,7 +150,7 @@ Reimplementation in 1 week each of :
 ###
 
 <div align="left">
-  <b><font size="10">42sh</font></b>
+  <b><font size="10">📟 42sh</font></b>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" alt="c logo"  />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="gnu-bash logo"  />
   <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" height="25" alt="cmake logo"  />
@@ -160,7 +160,7 @@ Creation of a Unix shell that adheres to both the SCL standard and the bash POSI
 ###
 
 <div align="left">
-  <b><font size="10">Tiger Compiler</font></b>
+  <b><font size="10">🐯 Tiger Compiler</font></b>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25" alt="c logo"  />
 </div>
 Creation of a compiler for the Tiger language. This language is based on the Andrew Appel book : Modern Compiler Implementation.
@@ -169,7 +169,7 @@ Creation of a compiler for the Tiger language. This language is based on the And
 ###
 
 <div align="left">
-  <b><font size="10">PING - Code Editor</font></b>
+  <b><font size="10">🖥️ PING - Code Editor</font></b>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" height="25" alt="Electron logo"  />
 </div>
